@@ -15,7 +15,7 @@ Within the scope of this project, it will be from the puzzle game [The Mini Cros
 
 
 ----
-
+ 
 ## Prerequisites
 
 We must have the libraries needed:
