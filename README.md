@@ -15,7 +15,7 @@ Within the scope of this project, it will be from the puzzle game [The Mini Cros
 
 
 ----
- 
+
 ## Prerequisites
 
 We must have the libraries needed:
@@ -24,6 +24,10 @@ Library | install | version
 --- | --- | ---
 *BeautifulSoup* | `pip install beautifulsoup4` | **4.10.0**
 *Requests* | `pip install requests` | **2.26.0**
+
+You can install the necessary versions with the code
+
+        pip install -r requirements.txt
 
 ---
 ## How to install and run
